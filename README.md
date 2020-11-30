@@ -80,10 +80,10 @@ I'm Simon, Software Architect & 42 Student, currently living in Bourg Saint Maur
 ---
 
 ## Codingame
-#### Spring Challenge 2020 : <a href="https://www.codingame.com/contests/spring-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">My Stats</a><br/>
+#### Spring Challenge 2020 : <a href="https://www.codingame.com/contests/spring-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/codingame_spring_challenge_2020">Repo</a><br/>
 [49 / 4955] (Overall)<br/>
 [2 / 120] (Team[42])
-#### Fall Challenge 2020 : <a href="https://www.codingame.com/contests/fall-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">My Stats</a><br/>
+#### Fall Challenge 2020 : <a href="https://www.codingame.com/contests/fall-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">My Stats</a> - <a href="https://github.com/sgalasso42/codingame_fall_challenge_2020">PostMortem</a><br/>
 [389 / 7011] (Overall)<br/>
 [4 / 197] (Team[42])
 
