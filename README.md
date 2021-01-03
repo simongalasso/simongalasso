@@ -1,6 +1,6 @@
 # Hey 👋 Welcome to my README !
 
-I'm Simon, Software Architect & 42 Student, currently living in Bourg Saint Maurice, France.
+I'm Simon, Software Architect & 42 Student, currently living in France.
 
 ---
 
