@@ -5,6 +5,13 @@ I'm Simon, Software Architect & 42 Student, currently living in Bourg Saint Maur
 ---
 
 <!--START_SECTION:waka-->
+```text
+C            14 hrs 14 mins  ██████████████░░░░░░░░░░░   55.45 % 
+Vue.js       7 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   31.03 % 
+Text         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+TypeScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Makefile     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+```
 <!--END_SECTION:waka-->
 
 ---
