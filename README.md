@@ -60,6 +60,8 @@ I'm Simon, Software Architect & 42 Student, currently living in Bourg Saint Maur
 
 <!--START_SECTION:waka-->
 ```text
+Week: 26 December, 2020 - 02 January, 2021
+
 C            14 hrs 14 mins  ██████████████░░░░░░░░░░░   55.45 % 
 Vue.js       7 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   31.03 % 
 Text         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
