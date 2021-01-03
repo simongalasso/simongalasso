@@ -2,8 +2,10 @@
 
 I'm Simon, Software Architect & 42 Student, currently living in Bourg Saint Maurice, France.
 
-[![Repos Badge](https://badges.pufler.dev/repos/sgalasso42)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/sgalasso42)](https://badges.pufler.dev)
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
