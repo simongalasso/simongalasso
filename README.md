@@ -66,9 +66,6 @@ I'm Simon, Software Architect & 42 Student, currently living in France.
 ```text
 ⌚︎ Time Zone: Europe/Paris
 
-💻 Operating System: 
-Mac                      25 hrs 40 mins      █████████████████████████   100.0%
-
 ```
 
 
