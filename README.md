@@ -76,7 +76,7 @@ I'm Simon, Software Architect & 42 Student, currently living in France.
 ## Some Projects
 
 #### Artificial Intelligence
-<a href="https://github.com/sgalasso42/nn_based_snake_bot">nn_based_snake_bot</a> - <a href="https://github.com/sgalasso42/genetic_algorithm">genetic_algorithm</a>
+<a href="https://github.com/sgalasso42/nn_based_snake_bot">nn_based_snake_bot</a> - <a href="https://github.com/sgalasso42/genetic_algorithm">genetic_algorithm</a> - <a href="https://github.com/sgalasso42/ft_linear_regression">ft_linear_regression</a>
 #### Algorihmic
 <a href="https://github.com/sgalasso42/n-puzzle">n-puzzle</a> - <a href="https://github.com/sgalasso42/rubik">rubik</a>
 #### Low Level Graphics
