@@ -1,8 +1,6 @@
 # Hey 👋 Welcome to my README !
 
-I'm Simon, Software Architect & 42 Student, currently living in France.
-
----
+<p>I'm Simon, Software Architect & 42 Student, currently living in France.</p>
 
 ## Used Technologies
 
@@ -56,22 +54,16 @@ I'm Simon, Software Architect & 42 Student, currently living in France.
 	</tbody>
 </table>
 
----
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111652%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
 
----
-
 ## Connect with me
 
 [<img align="left" alt="linkedin" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
-
----
 
 ## Some Projects
 
@@ -82,15 +74,22 @@ I'm Simon, Software Architect & 42 Student, currently living in France.
 #### Low Level Graphics
 <a href="https://github.com/sgalasso42/wolf3d">wolf3d</a> - <a href="https://github.com/sgalasso42/fract_ol">fract_ol</a>
 
----
-
 ## Codingame
-#### Spring Challenge 2020 : <a href="https://www.codingame.com/contests/spring-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/codingame_spring_challenge_2020">Repo</a><br/>
-[49 / 4955] (Overall)<br/>
-[2 / 120] (Team[42])
-#### Fall Challenge 2020 : <a href="https://www.codingame.com/contests/fall-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">My Stats</a> - <a href="https://github.com/sgalasso42/codingame_fall_challenge_2020">PostMortem</a><br/>
-[389 / 7011] (Overall)<br/>
-[4 / 197] (Team[42])
+#### Spring Challenge 2020 : <a href="https://www.codingame.com/contests/spring-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/codingame_spring_challenge_2020">Repo</a>
+
+<p align="start">
+	<img src="https://img.shields.io/badge/League-Legendary-f96249?style=flat" />
+	<img src="https://img.shields.io/badge/overall%20rank-49%20%2F%204955-brightgreen?style=flat" />
+	<img src="https://img.shields.io/badge/Team%20rank%20(42)-2%20%2F%20120-brightgreen?style=flat" />
+</p>
+
+#### Fall Challenge 2020 : <a href="https://www.codingame.com/contests/fall-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/codingame_fall_challenge_2020">PostMortem</a>
+
+<p align="start">
+	<img src="https://img.shields.io/badge/League-Gold-gold?style=flat" />
+	<img src="https://img.shields.io/badge/overall%20rank-389%20%2F%207011-brightgreen?style=flat" />
+	<img src="https://img.shields.io/badge/Team%20rank%20(42)-4%20%2F%20197-brightgreen?style=flat" />
+</p>
 
 [linkedin]: https://www.linkedin.com/in/simongalasso/
 [codingame]: https://www.codingame.com/profile/f2c879b4cff7194c923835e58e70247f0323943
