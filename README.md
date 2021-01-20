@@ -55,6 +55,8 @@
 	</tbody>
 </table>
 
+---
+
 ## ➤ Connect with me
 
 [<img align="left" alt="linkedin" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -62,7 +64,17 @@
 
 ---
 
-## ➤ Some projects
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+
+## ➤ Currently working on
+- [rubik](https://github.com/sgalasso42/rubik) | Rust | neural network based rubik solver
+
+---
+
+## ➤ Featured projects
+- [multilayer_perceptron](https://github.com/sgalasso42/multilayer_perceptron) | Rust | a neural network
+- [n-puzzle](https://github.com/sgalasso42/n-puzzle) | Rust | a n-puzzle solver
+- [wolf3d](https://github.com/sgalasso42/wolf3d) | C | a raycasting implementation made with sdl2
 
 ---
 
@@ -72,7 +84,7 @@
 <p align="start">
 	<img src="https://img.shields.io/badge/League-Legendary-f96249?style=flat" />
 	<img src="https://img.shields.io/badge/overall%20rank-49%20%2F%204955-brightgreen?style=flat" />
-	<img src="https://img.shields.io/badge/Team%20rank%20(42)-2%20%2F%20120-brightgreen?style=flat" />
+	<img src="https://img.shields.io/badge/team%20rank%20(42)-2%20%2F%20120-brightgreen?style=flat" />
 </p>
 
 #### Fall challenge 2020 : <a href="https://www.codingame.com/contests/fall-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/codingame_fall_challenge_2020">PostMortem</a>
@@ -80,7 +92,7 @@
 <p align="start">
 	<img src="https://img.shields.io/badge/League-Gold-gold?style=flat" />
 	<img src="https://img.shields.io/badge/overall%20rank-389%20%2F%207011-brightgreen?style=flat" />
-	<img src="https://img.shields.io/badge/Team%20rank%20(42)-4%20%2F%20197-brightgreen?style=flat" />
+	<img src="https://img.shields.io/badge/team%20rank%20(42)-4%20%2F%20197-brightgreen?style=flat" />
 </p>
 
 [linkedin]: https://www.linkedin.com/in/simongalasso/
