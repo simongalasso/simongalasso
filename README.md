@@ -2,6 +2,8 @@
 
 <p>I'm Simon, Software Architect & 42 Student, currently living in France.</p>
 
+[![Contributors Display](https://badges.pufler.dev/contributors/sgalasso42/n-puzzle?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+
 ---
 
 ## ➤ Used technologies
@@ -12,44 +14,43 @@
 			<td>
 				<h4>Mains</h4>
 				<p>
-					<img alt="C" src="https://img.shields.io/badge/-c-00599C?style=flat-square&logo=c&logoColor=white" />
-					<img alt="Rust" src="https://img.shields.io/badge/-rust-000000?style=flat-square&logo=rust&logoColor=white" />
+					<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+					<img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
 				</p>
 			</td>
 			<td>
 				<h4>Graphics</h4>
 				<p>
-					<img alt="C#" src="https://img.shields.io/badge/-c%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-					<img alt="Unity" src="https://img.shields.io/badge/-unity-000000?style=flat-square&logo=unity&logoColor=white" />
+					<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
+					<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 				</p>
 			</td>
 			<td>
 				<h4>Apps & Web</h4>
 				<p>
-					<img alt="Dart" src="https://img.shields.io/badge/-dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-					<img alt="Flutter" src="https://img.shields.io/badge/-flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-					<img alt="Vue" src="https://img.shields.io/badge/-vue-35495e?style=flat-square&logo=vue&logoColor=white" />
-					<img alt="Vuetify" src="https://img.shields.io/badge/-vuetify-A8B9CC?style=flat-square&logo=vuetify&logoColor=white" />
-					<img alt="Typescript" src="https://img.shields.io/badge/-typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-					<img alt="Typescript" src="https://img.shields.io/badge/-javascript-323330?style=flat-square&logo=javascript&logoColor=white" />
+					<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+					<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+					<img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=fflat&logo=vue.js&logoColor=4FC08D" />
+					<img alt="Vuetify" src="https://img.shields.io/badge/-vuetify-A8B9CC?style=flat&logo=vuetify&logoColor=white" />
+					<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 				</p>
 			</td>
 			<td>
 				<h4>Tools</h4>
 				<p>
-					<img alt="Git" src="https://img.shields.io/badge/-git-50532?style=flat-square&logo=git&logoColor=white" />
-					<img alt="Github" src="https://img.shields.io/badge/-github-50532?style=flat-square&logo=github&logoColor=white" />
-					<img alt="Vim" src="https://img.shields.io/badge/-vim-007ACC?style=flat-square&logo=vim&logoColor=white" />
-					<img alt="Vscode" src="https://img.shields.io/badge/-vscode-007ACC?style=flat-square&logo=vscode&logoColor=white" />
-					<img alt="Gitkraken" src="https://img.shields.io/badge/-gitkraken-50532?style=flat-square&logo=gitkraken&logoColor=white" />
-					<img alt="Docker" src="https://img.shields.io/badge/-docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+					<img alt="Git" src="https://img.shields.io/badge/-git-50532?style=flat&logo=git&logoColor=white" />
+					<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+					<img alt="Vim" src="https://img.shields.io/badge/-vim-007ACC?style=flat&logo=vim&logoColor=white" />
+					<img alt="Vscode" src="https://img.shields.io/badge/-vscode-007ACC?style=flat&logo=vscode&logoColor=white" />
+					<img alt="Gitkraken" src="https://img.shields.io/badge/-gitkraken-50532?style=flat&logo=gitkraken&logoColor=white" />
+					<img alt="Docker" src="https://img.shields.io/badge/-docker-0db7ed?style=flat&logo=docker&logoColor=white" />
 				</p>
 			</td>
 			<td>
 				<h4>Design</h4>
 				<p>
-					<img alt="Illustrator" src="https://img.shields.io/badge/-adobe%20illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
-					<img alt="Figma" src="https://img.shields.io/badge/-figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+					<img alt="Illustrator" src="https://img.shields.io/badge/-adobe%20illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white" />
+					<img alt="Figma" src="https://img.shields.io/badge/-figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 				</p>
 			</td>
 		</tr>
