@@ -2,8 +2,6 @@
 
 <p>I'm Simon, Software Architect & 42 Student, currently living in France.</p>
 
-[![Contributors Display](https://badges.pufler.dev/contributors/sgalasso42/n-puzzle?size=50&padding=5&bots=true)](https://badges.pufler.dev)
-
 ---
 
 ## ➤ Used technologies
