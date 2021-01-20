@@ -65,7 +65,7 @@
 ---
 
 ## ➤ Currently working on
-- [rubik](https://github.com/sgalasso42/rubik) | Rust | neural network based rubik solver
+- [rubik](https://github.com/sgalasso42/rubik) | Rust | a neural network based rubik solver
 
 ---
 
