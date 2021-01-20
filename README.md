@@ -64,8 +64,6 @@
 
 ---
 
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-
 ## ➤ Currently working on
 - [rubik](https://github.com/sgalasso42/rubik) | Rust | neural network based rubik solver
 
