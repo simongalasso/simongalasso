@@ -98,4 +98,4 @@
 [linkedin]: https://www.linkedin.com/in/simongalasso/
 [codingame]: https://www.codingame.com/profile/f2c879b4cff7194c923835e58e70247f0323943
 [codewars]: https://www.codewars.com/kata/54d512e62a5e54c96200019e/rust
-[email]: simon.galasso@hotmail.fr
+[email]: mailto:simon.galasso@hotmail.fr
