@@ -59,8 +59,9 @@
 
 ## ➤ Connect with me
 
-[<img align="left" alt="linkedin" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" height="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
+[<img align="left" alt="codewars" height="22px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" />][codewars]<br/>
 
 ---
 
@@ -95,3 +96,5 @@
 
 [linkedin]: https://www.linkedin.com/in/simongalasso/
 [codingame]: https://www.codingame.com/profile/f2c879b4cff7194c923835e58e70247f0323943
+[codewars]: https://www.codewars.com/kata/54d512e62a5e54c96200019e/rust
+[email]: simon.galasso@hotmail.fr
