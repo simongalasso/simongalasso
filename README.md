@@ -67,7 +67,7 @@
 ---
 
 ## ➤ Currently working on
-- [rubik](https://github.com/sgalasso42/rubik) | Rust | a rubik solver
+- [rubik](https://github.com/sgalasso42/rubik) | Rust | a Rubik's Cube solver, based on the kociemba's two-phase-solver 
 
 ---
 
