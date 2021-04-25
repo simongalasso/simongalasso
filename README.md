@@ -67,11 +67,12 @@
 ---
 
 ## ➤ Currently working on
-- [rubik](https://github.com/sgalasso42/rubik) | Rust | a Rubik's Cube solver, based on the kociemba's two-phase-solver 
+- [computorv1](https://github.com/sgalasso42/computorv1) | Rust | solves polynomials equation of degree 2 or less
 
 ---
 
 ## ➤ Featured projects
+- [rubik](https://github.com/sgalasso42/rubik) | Rust | a Rubik's Cube solver, based on the kociemba's two-phase-solver
 - [multilayer_perceptron](https://github.com/sgalasso42/multilayer_perceptron) | Rust | a neural network
 - [n-puzzle](https://github.com/sgalasso42/n-puzzle) | Rust | a n-puzzle solver
 - [wolf3d](https://github.com/sgalasso42/wolf3d) | C | a raycasting implementation made with sdl2
