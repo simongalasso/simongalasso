@@ -68,7 +68,6 @@
 
 ## ➤ Currently working on
 - [gomoku](https://github.com/sgalasso42/gomoku) | Rust | gomoku game environment and AI
-- [computorv1](https://github.com/sgalasso42/computorv1) | Rust | solves polynomials equation of degree 2 or less
 
 ---
 
