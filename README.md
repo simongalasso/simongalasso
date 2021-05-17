@@ -80,20 +80,28 @@
 ---
 
 ## ➤ Codingame
+#### Spring challenge 2021 : <a href="https://www.codingame.com/contests/spring-challenge-2021/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/cg_spring_challenge_2021">Repo</a>
+
+<p align="start">
+	<img src="https://img.shields.io/badge/League-Legendary-f96249?style=flat" />
+	<img src="https://img.shields.io/badge/overall%20rank-100%20%2F%206 867-brightgreen?style=flat" />
+	<img src="https://img.shields.io/badge/team%20rank%20(42)-3%20%2F%20213-brightgreen?style=flat" />
+</p>
+
+#### Fall challenge 2020 : <a href="https://www.codingame.com/contests/fall-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/cg_fall_challenge_2020">PostMortem</a>
+
+<p align="start">
+	<img src="https://img.shields.io/badge/League-Gold-gold?style=flat" />
+	<img src="https://img.shields.io/badge/overall%20rank-389%20%2F%207 011-brightgreen?style=flat" />
+	<img src="https://img.shields.io/badge/team%20rank%20(42)-4%20%2F%20197-brightgreen?style=flat" />
+</p>
+
 #### Spring challenge 2020 : <a href="https://www.codingame.com/contests/spring-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/codingame_spring_challenge_2020">Repo</a>
 
 <p align="start">
 	<img src="https://img.shields.io/badge/League-Legendary-f96249?style=flat" />
-	<img src="https://img.shields.io/badge/overall%20rank-49%20%2F%204955-brightgreen?style=flat" />
+	<img src="https://img.shields.io/badge/overall%20rank-49%20%2F%204 955-brightgreen?style=flat" />
 	<img src="https://img.shields.io/badge/team%20rank%20(42)-2%20%2F%20120-brightgreen?style=flat" />
-</p>
-
-#### Fall challenge 2020 : <a href="https://www.codingame.com/contests/fall-challenge-2020/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/codingame_fall_challenge_2020">PostMortem</a>
-
-<p align="start">
-	<img src="https://img.shields.io/badge/League-Gold-gold?style=flat" />
-	<img src="https://img.shields.io/badge/overall%20rank-389%20%2F%207011-brightgreen?style=flat" />
-	<img src="https://img.shields.io/badge/team%20rank%20(42)-4%20%2F%20197-brightgreen?style=flat" />
 </p>
 
 [linkedin]: https://www.linkedin.com/in/simongalasso/
