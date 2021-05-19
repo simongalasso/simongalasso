@@ -72,6 +72,7 @@
 ---
 
 ## ➤ Featured projects
+- [cg_spring_challenge_2021](https://github.com/sgalasso42/cg_spring_challenge_2021) | Rust | CodinGame Spring Challenge submission, 100th / 6 867 players
 - [rubik](https://github.com/sgalasso42/rubik) | Rust | a Rubik's Cube solver, based on the kociemba's two-phase-solver
 - [multilayer_perceptron](https://github.com/sgalasso42/multilayer_perceptron) | Rust | a neural network
 - [n-puzzle](https://github.com/sgalasso42/n-puzzle) | Rust | a n-puzzle solver
