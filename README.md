@@ -80,7 +80,7 @@
 ---
 
 ## ➤ Codingame
-#### Spring challenge 2021 : <a href="https://www.codingame.com/contests/spring-challenge-2021/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/cg_spring_challenge_2021">Repo</a>
+#### Spring challenge 2021 : <a href="https://www.codingame.com/contests/spring-challenge-2021/leaderboard/global?column=keyword&value=sgalasso">Stats</a> - <a href="https://github.com/sgalasso42/cg_spring_challenge_2021">PostMortem</a>
 
 <p align="start">
 	<img src="https://img.shields.io/badge/League-Legendary-f96249?style=flat" />
