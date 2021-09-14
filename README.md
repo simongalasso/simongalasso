@@ -67,6 +67,7 @@
 ---
 
 ## ➤ Currently working on
+- [codingame's projects](https://www.codingame.com/profile/f2c879b4cff7194c923835e58e70247f0323943) | Rust, C, C# | leaderboard conquest
 - [gomoku](https://github.com/sgalasso42/gomoku) | Rust | gomoku game environment and AI
 
 ---
