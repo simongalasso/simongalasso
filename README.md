@@ -67,6 +67,7 @@
 ---
 
 ## ➤ Currently working on
+- [cg_mars_lander_ga](https://github.com/simongalasso/cg_mars_lander_ga) | Rust | a genetic algorithm for the CG Mars Lander challenge
 - [codingame's projects](https://www.codingame.com/profile/f2c879b4cff7194c923835e58e70247f0323943) | Rust, C, C# | leaderboard conquest
 - [gomoku](https://github.com/sgalasso42/gomoku) | Rust | gomoku game environment and AI
 
