@@ -67,13 +67,13 @@
 ---
 
 ## ➤ Currently working on
-- [cg_mars_lander_ga](https://github.com/simongalasso/cg_mars_lander_ga) | Rust | a genetic algorithm for the CG Mars Lander challenge
+- [cg_coders_strike_back_ga](https://github.com/simongalasso/cg_coders_strike_back_ga) | Rust | a genetic algorithm for the CG Coders Strike Back challenge
 - [codingame's projects](https://www.codingame.com/profile/f2c879b4cff7194c923835e58e70247f0323943) | Rust, C, C# | leaderboard conquest
-- [gomoku](https://github.com/sgalasso42/gomoku) | Rust | gomoku game environment and AI
 
 ---
 
 ## ➤ Featured projects
+- [cg_mars_lander_ga](https://github.com/simongalasso/cg_mars_lander_ga) | Rust | a genetic algorithm for the CG Mars Lander challenge
 - [cg_spring_challenge_2021](https://github.com/sgalasso42/cg_spring_challenge_2021) | Rust | CodinGame Spring Challenge submission, 100th / 6 867 players
 - [rubik](https://github.com/sgalasso42/rubik) | Rust | a Rubik's Cube solver, based on the kociemba's two-phase-solver
 - [multilayer_perceptron](https://github.com/sgalasso42/multilayer_perceptron) | Rust | a neural network
