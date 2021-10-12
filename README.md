@@ -61,7 +61,6 @@
 
 [<img align="left" alt="linkedin" height="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]
-[<img align="left" alt="codewars" height="22px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" />][codewars]
 [<img align="left" alt="email" height="22px" src="https://cdn.icon-icons.com/icons2/614/PNG/512/email-envelope-outline-shape-with-rounded-corners_icon-icons.com_56530.png" />][email]<br>
 
 ---
