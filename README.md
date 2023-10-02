@@ -1,6 +1,6 @@
 # Hey 👋 Welcome to my README !
 
-<p>I'm Simon, Software Architect & 42 Student, currently living in France.</p>
+<p>I'm Simon, software developer, currently living in France.</p>
 
 ---
 
